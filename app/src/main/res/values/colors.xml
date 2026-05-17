@@ -1,0 +1,9 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="duck_yellow">#FFFFD400</color>
+    <color name="duck_green">#FF8BAC0F</color>
+    <color name="duck_dark_green">#FF0F380F</color>
+    <color name="surface_dark">#FF111111</color>
+    <color name="surface_panel">#FF1A1A1A</color>
+</resources>

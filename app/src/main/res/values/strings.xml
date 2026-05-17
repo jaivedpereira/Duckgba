@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Duckgba</string>
+    <string name="app_tagline">Game Boy Emulator</string>
+    <string name="action_add">Adicionar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_import_rom">Importar ROM</string>
+    <string name="action_open_settings">Abrir Configurações</string>
+    <string name="action_back">Voltar</string>
+    <string name="empty_library_title">Sua biblioteca está vazia</string>
+    <string name="empty_library_subtitle">Toque no botão + para importar uma ROM (.gb / .gbc / .zip)</string>
+    <string name="library_title">Biblioteca</string>
+    <string name="settings_title">Configurações</string>
+    <string name="rom_imported">ROM importada</string>
+    <string name="rom_import_failed">Falha ao importar ROM</string>
+    <string name="confirm_delete">Excluir esta ROM?</string>
+    <string name="delete">Excluir</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- Settings categories -->
+    <string name="settings_video">Vídeo</string>
+    <string name="settings_audio">Áudio</string>
+    <string name="settings_controls">Controles</string>
+    <string name="settings_emulation">Emulação</string>
+    <string name="settings_about">Sobre</string>
+
+    <!-- Settings items -->
+    <string name="setting_color_palette">Paleta de cores</string>
+    <string name="setting_color_palette_summary">Cor padrão usada para jogos GB</string>
+    <string name="setting_screen_filter">Filtro de tela</string>
+    <string name="setting_keep_aspect_ratio">Manter proporção 10:9</string>
+    <string name="setting_keep_aspect_ratio_summary">Mostrar a tela do GB sem deformar</string>
+    <string name="setting_integer_scaling">Escala inteira</string>
+    <string name="setting_integer_scaling_summary">Pixels nítidos sem suavização</string>
+    <string name="setting_audio_enabled">Áudio habilitado</string>
+    <string name="setting_audio_volume">Volume</string>
+    <string name="setting_haptic">Vibração nos botões</string>
+    <string name="setting_haptic_summary">Pequeno feedback ao tocar nos controles</string>
+    <string name="setting_show_fps">Mostrar FPS</string>
+    <string name="setting_controls_size">Tamanho dos controles</string>
+    <string name="setting_controls_opacity">Opacidade dos controles</string>
+    <string name="setting_speed_multiplier">Multiplicador de velocidade</string>
+    <string name="setting_force_dmg">Forçar modo monocromático (DMG)</string>
+    <string name="setting_force_dmg_summary">Útil para jogos GBC com bugs</string>
+    <string name="setting_skip_bios">Pular BIOS</string>
+    <string name="setting_battery_save">Salvar progresso (battery save)</string>
+
+    <string name="about_text">Duckgba é um emulador de Game Boy / Game Boy Color baseado no core open source coffee-gb (MIT) por Tomek Rękawek.</string>
+    <string name="about_view_source">Ver código no GitHub</string>
+
+    <!-- In-game -->
+    <string name="game_paused">Jogo pausado</string>
+    <string name="action_resume">Retomar</string>
+    <string name="action_save_state">Salvar estado</string>
+    <string name="action_load_state">Carregar estado</string>
+    <string name="action_reset">Reiniciar</string>
+    <string name="action_quit">Sair do jogo</string>
+    <string name="action_screenshot">Captura de tela</string>
+    <string name="state_saved">Estado salvo</string>
+    <string name="state_loaded">Estado carregado</string>
+    <string name="no_state_to_load">Nenhum estado salvo</string>
+    <string name="rom_load_failed">Falha ao carregar ROM</string>
+
+    <!-- Buttons -->
+    <string name="btn_a">A</string>
+    <string name="btn_b">B</string>
+    <string name="btn_start">START</string>
+    <string name="btn_select">SELECT</string>
+    <string name="btn_menu">MENU</string>
+</resources>
